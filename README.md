@@ -2,7 +2,7 @@
 
 前半day2についての資料です。
 
-[2025_bioinformatics-course-keio_%E5%89%8D%E5%8D%8Aday2.ipynb] (2025_bioinformatics-course-keio_%E5%89%8D%E5%8D%8Aday2.ipynb)
+[2025_bioinformatics-course-keio_前半day2.ipynb] (2025_bioinformatics-course-keio_前半day2.ipynb)
 
 をご覧ください。
 
