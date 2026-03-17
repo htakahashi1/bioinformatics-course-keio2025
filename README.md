@@ -1,0 +1,6 @@
+# bioinformatics-course-keio2025
+
+前半day2についての資料です。
+実習5で使用するJIAsyno_CITEseq_T_NK_after_SCT.rdsは
+https://drive.google.com/drive/folders/1Lj05xfjvvTJc1dcPmumUWuufns-7WHV2?usp=drive_link
+にあります。(keioアドレスでのみ参照できます。）
